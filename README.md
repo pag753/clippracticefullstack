@@ -21,7 +21,7 @@ $ npm run start
 ### Show me locally
 Open [http://localhost:3000](http://localhost:3000) to see me in the browser
 
-## Test me:
+### Test me:
 ```
 $ npm run test
 ```
